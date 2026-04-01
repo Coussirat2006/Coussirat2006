@@ -2,7 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/lucas-coussirat-pompeu-araujo-189742298/)
 
-![Coussirat2006 GitHub stats](https://github-readme-stats.vercel.app/api?username=Coussirat2006&show_icons=true&theme=dracula)
+
+![Lucas Stats](https://github-readme-stats.vercel.app/api?username=Coussirat2006&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 > **🚀 Ultimamente, tenho desenvolvido projetos pessoais e corporativos utilizando JavaScript, Node.js, React, HTML e CSS.**
 
